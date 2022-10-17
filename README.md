@@ -6,7 +6,7 @@
 * [Task Objective](#task-objective)
 * [Current Codebase](#current-codebase)
 * [File Descriptions](#file-descriptions)
-* [File 1](##file-1)
+* * [File 1](#file-1)
 
 
 ## Introduction
@@ -23,7 +23,7 @@ The robotic arm will pick up the ball from a designated location using the gripp
 The current code shows that we can interface with the simulator, move the robot, and  access some sensor measurements. We have tested the code to move the robot around and create a ball to be used as a ping pong ball. We will then be aiming to attempt to throw the ball at some velocity in the direction of the cup locations.
 We have tested the sensors related to the gripper to identify when a ball is being picked up or not(suction gripper). This had been done by subscribing to the gripper input, and then implementing a callback function to get the state of the gripper(holding a ball vs not holging a ball)
 
-## File Description
+## File Descriptions
 test
 ### File 1
 test
