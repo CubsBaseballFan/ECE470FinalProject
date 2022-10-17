@@ -31,9 +31,13 @@ We have tested the sensors related to the gripper to identify when a ball is bei
 ## File Descriptions
 
 ### lab2_data.yaml
+
 ### lab2_exec.py
+
 ### lab2_header.py
+
 ### lab2_header.pyc
+
 ### lab2_spawn.py
 
 
