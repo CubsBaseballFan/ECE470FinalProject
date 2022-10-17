@@ -7,7 +7,7 @@
 * [Task Objective](#task-objective)
 * [Current Codebase](#current-codebase)
 * [File Descriptions](#file-descriptions)
-  * [lab2_data.yaml](#lab2-data.yaml)
+  * [lab2_data.yaml](#lab2_data.yaml)
   * [lab2_exec.py](#lab2_exec.py)
   * [lab2_header.py](#lab2_header.py)
   * [lab2_header.pyc](#lab2_header.pyc)
