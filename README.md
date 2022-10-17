@@ -12,7 +12,7 @@
 
 
 ## Introduction
-The objective of this project is to use the Universal Robotic arm to complete a game of cup pong. The robotic arm will pick up the ball from a designated location using the suction gripper, and attempt to throw the ball into a cup places at another designated location. The code base includes the feedback from the suction gripper indicating the presence of the ball.
+The objective of this project is to use the Universal Robots arm to complete a game of cup pong. The robotic arm will pick up the ball from a designated location using the suction gripper, and attempt to throw the ball into a cup places at another designated location. The code base includes the feedback from the suction gripper indicating the presence of the ball.
 This project was done for the course project of ECE 470 at UIUC for the fall 2022 semester
 	
 ## Technologies
