@@ -1,0 +1,29 @@
+# Commands to input into the terminal to run and test out the Gazebo simulation
+
+#Change current directory to project folder
+cd catkin_finalproject
+
+#Always source when opening a new terminal
+source devel/setup.bash
+
+#Run the launch file for the Gazebo simulator
+roslaunch ur3_driver ur3_gazebo.launch
+
+#Gazebo should open, then open a new terminal
+
+source devel/setup.bash
+
+#Run the simulation
+rosrun lab2_pkg.py lab2_exec.py --simulator True
+
+#file names will be changed for next project update
+
+
+#List topics and messages
+rostopic list
+rostopic info
+rosmsg list
+rosmsg info
+
+#Use camera ros topic to record images
+rosrun image_view video_recorder image:=/cv_camera_node/image_raw
