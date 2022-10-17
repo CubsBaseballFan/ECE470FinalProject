@@ -26,18 +26,12 @@ The robotic arm will pick up the ball from a designated location using the gripp
 
 ## Current Codebase
 The current code shows that we can interface with the simulator, move the robot, and  access some sensor measurements. We have tested the code to move the robot around and create a ball to be used as a ping pong ball. We will then be aiming to attempt to throw the ball at some velocity in the direction of the cup locations.
-We have tested the sensors related to the gripper to identify when a ball is being picked up or not(suction gripper). This had been done by subscribing to the gripper input, and then implementing a callback function to get the state of the gripper(holding a ball vs not holding a ball)
+We have tested the sensors related to the gripper to identify when a ball is being picked up or not(suction gripper). This had been done by subscribing to the gripper input, and then implementing a callback function to get the state of the gripper(holding a ball vs not holding a ball).
 
 ## File Descriptions
-
-### lab2_data.yaml
-
+The compressed folder of all relevant files is included on this GitHub repository in the releases section. Some important files for the project are listed below.
 ### lab2_exec.py
-
-### lab2_header.py
-
-### lab2_header.pyc
-
+Main Python file for simulating robot. Files are adapted from Lab 2 of the ECE 470 course, and will be further edited to implement the solution for this final project.
 ### lab2_spawn.py
-
+Python file for creating objects in Gazebo.
 
