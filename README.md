@@ -1,4 +1,5 @@
-# ECE-470 Final Project
+# ECE 470 Final Project
+## ECE 470 Project update 1
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -6,7 +7,11 @@
 * [Task Objective](#task-objective)
 * [Current Codebase](#current-codebase)
 * [File Descriptions](#file-descriptions)
-  * [File 1](#file-1)
+  * [lab2_data.yaml](#lab2_data.yaml)
+  * [lab2_exec.py](#lab2_exec.py)
+  * [lab2_header.py](#lab2_header.py)
+  * [lab2_header.pyc](#lab2_header.pyc)
+  * [lab2_spawn.py](#lab2_spawn.py)
 
 
 ## Introduction
@@ -24,7 +29,11 @@ The current code shows that we can interface with the simulator, move the robot,
 We have tested the sensors related to the gripper to identify when a ball is being picked up or not(suction gripper). This had been done by subscribing to the gripper input, and then implementing a callback function to get the state of the gripper(holding a ball vs not holging a ball)
 
 ## File Descriptions
-test
-### File 1
-test
+
+### lab2_data.yaml
+### lab2_exec.py
+### lab2_header.py
+### lab2_header.pyc
+### lab2_spawn.py
+
 
