@@ -31,7 +31,9 @@ We have tested the sensors related to the gripper to identify when a ball is bei
 ## File Descriptions
 The compressed folder of all relevant files is included on this GitHub repository in the releases section. Some important files for the project are listed below.
 ### lab2_exec.py
-Main Python file for simulating robot. Files are adapted from Lab 2 of the ECE 470 course, and will be further edited to implement the solution for this final project.
+Main Python file for simulating robot. Files are adapted from Lab 2 of the ECE 470 course, and will be further edited to implement the solution for this final project. 
+
+In this file, the possible positions of the end effector of the robotic arm are listed. Then a subscriber is called to receive sensor information from the suction gripper. Additionally, the move_arm and move_block functions describe the ways and points the robot arm shall move to in order to pick up objects.
 ### lab2_spawn.py
 Python file for creating objects in Gazebo.
 
