@@ -6,7 +6,7 @@
 * [Task Objective](#task-objective)
 * [Current Codebase](#current-codebase)
 * [File Descriptions](#file-descriptions)
-* *[File 1](#file-1)
+  * [File 1](#file-1)
 
 
 ## Introduction
