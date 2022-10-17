@@ -25,6 +25,6 @@ We have tested the sensors related to the gripper to identify when a ball is bei
 
 ## File Description
 test
-###File 1
+### File 1
 test
 
