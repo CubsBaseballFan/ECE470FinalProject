@@ -1,4 +1,4 @@
-# ECE 470 Final Project\
+# ECE 470 Final Project
 
 ## Table of contents
 * [Introduction](#introduction)
